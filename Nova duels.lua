@@ -1,2 +1,2 @@
 -- ✨ NOVA DUELS | SCRIPT OFICIAL ✨
-loadstring(game:HttpGet("https://pastefy.app/6XXD7Bp5/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NovaScripts-sv/Nova-duels/main/Nova%20duels.lua"))()
